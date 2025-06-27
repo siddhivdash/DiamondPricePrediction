@@ -2,7 +2,9 @@
 
 An end-to-end Machine Learning project that predicts the price of diamonds based on various attributes. The project includes all the necessary steps from **data ingestion** to **model training**, **evaluation**, and lays the foundation for deployment. This project is designed using a modular and scalable architecture that follows best practices for reproducibility and reusability.
 
-![Diamond](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Diamond_icon.svg/1024px-Diamond_icon.svg.png)
+
+![Diamond Price Prediction Demo](images/demo.gif)
+
 
 ---
 
