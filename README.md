@@ -8,23 +8,6 @@ An end-to-end Machine Learning project that predicts the price of diamonds based
 
 ---
 
-## 📌 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Dataset Details](#-dataset-details)
-- [Business Objective](#-business-objective)
-- [Tech Stack](#-tech-stack)
-- [End-to-End Pipeline](#-end-to-end-pipeline)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [How to Run](#-how-to-run)
-- [Model Training](#-model-training)
-- [Results](#-results)
-- [Future Work](#-future-work)
-- [Contributors](#-contributors)
-- [License](#-license)
-
----
 
 ## 📈 Project Overview
 
